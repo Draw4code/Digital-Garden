@@ -1,0 +1,26 @@
+
+|              <h1>DyYanna L. Draw</h1>               |
+| :-------------------------------------------------: |
+| <b> "Be brave enough to suck at something" </b><br> |
+
+| Hi!👋🏾 thanks for stopping by. My name is Dyyanna, 💃🏽 I'm the web master. I'm just an old fashion 80s baby trying to keep up with all of the technological innovations.<br>  <br>I am truly inspired by the indie-web revivals of the [Neocities](https://neocities.org/browse) community, its so nostalgic for me having lived thru that era. 😂 I'm proud to be from a time of dial-up and obnoxiously difficult to navigate webpages. It feels great to reminisce on how things used to be and appreciate what they have become. <br><br>Somehow, I have made exploring new technology a hobby, along with daydreaming, reading sci-fi, puzzling and occasionally a random multimedia art project. I am a bit of an longer, but I hope to use my webpage to connect with the world outside of myself. <br><br>I hope this page gives you some insight on who I am, what I do and how great I am at. <br><br>Thanks for stopping by‼️<br>Don't forget to sign my [Guestbook](https://atabook.org/) before your leave. | ABOUT ME<br>[[Manifesto]]<br>	[[Goals Tracker]]<br>	[[Contact Me]]<br>	[[Resume]]<br>BLOG(s)<br>[[Rants, Reflections & Revelations]]<br>[[The Pragmatic Empiricist]]<br>TECHNOLOGY<br>[[Coding Projects]]<br>[[Side Quests]]<br>DAY TRADING <br>[[Trade Journal]]<br>[[Trading Resources & Notes]]<br>SCRAPBOOK<br>	[[Books]]<br>	[[Movies & TV]]<br>[[Outside Events]]<br>[[Uncategorically Cool Resources]]<br><br> |
+| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                                                                                                                                                                                                   <b>Let me know you like my page by giving me a Clap: </b><a href="//clap.fc2.com/post/drawcode/?url=https%3A%2F%2Fcodepen.io%2FDraw4code%2F&title=homepage" target="_blank" title="Web Clap by FC2"><img src="//clap.fc2.com/images/button/pink/drawcode?url=https%3A%2F%2Fcodepen.io%2FDraw4code%2F&amp;lang=en" alt="Web Clap by FC2" style="border:none;" /><br>          </a><br>                                                                                                                                                                                                                                                                                                                    |                                                                                                                                                                                                                                           <h2>CHATBOX</h2><br>          <p>Want to chat with me directly?</p><br><iframe src="/embed/index.html?chat=000" id="chattable" frameborder="0" width="150px"><br>      </p> |
+
+
+**CONTACT ME**
+[GitHub](https://github.com/Draw4code)
+[Code Pen]([https://codepen.io/Draw4code/](https://codepen.io/Draw4code/))
+[LinkedIn](https://www.linkedin.com/in/dyyannad/)
+[Email Me](mailto:draw4code@gmail.com)
+[CodeWars](https://www.codewars.com/users/Draw4code)
+[Discord](https://discord.com/channels/@draw4code)
+Mastradon
+[Neocities](https://draw4code.neocities.org/)
+
+
+created by Draw4Code with 💜 @2026 | Contact Me |
+[[HOME]] - Contact Me: [GitHub](https://github.com/Draw4code) - [Code Pen]([https://codepen.io/Draw4code/](https://codepen.io/Draw4code/)) - [LinkedIn](https://www.linkedin.com/in/dyyannad/)
+[Email Me](mailto:draw4code@gmail.com) - [CodeWars](https://www.codewars.com/users/Draw4code) - [Discord](https://discord.com/channels/@draw4code) - [Neocities](https://draw4code.neocities.org/)
+
+
